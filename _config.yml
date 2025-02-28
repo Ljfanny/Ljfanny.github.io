@@ -22,7 +22,7 @@ repository               : "Ljfanny/Ljfanny.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jepg"
+  avatar           : "photo.jpg"
   name             : "Jiefang Lin"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Software Engineering at UT Austin"
