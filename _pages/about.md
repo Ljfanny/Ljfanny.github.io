@@ -15,6 +15,6 @@ Publication
 ======
 
 ***Test Scheduling Across Heterogeneous Machines While Balancing Running Time, Price, and Flakiness***  
-Hengchen Yuan*, **Jiefang Lin\***, Wing Lam, August Shi  
+Hengchen Yuan, **Jiefang Lin**, Wing Lam, August Shi  
 *International Conference on Software Maintenance and Evolution*  
 (ICSME 2024), pages 449-460, Flagstaff, Arizona, USA, Oct. 2024. [[paper](https://Ljfanny.github.io/files/ICSME2024-gasearch.pdf)] [[code](https://sites.google.com/view/gasearchartifact)]
